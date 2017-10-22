@@ -1,7 +1,7 @@
 # mpv.conf
 Author: jamcha (jamcha.aa@gmail.com)
 
-This mpv.conf targets cheap APU machine without proprietary graphic driver (e.g., RADEON HD 6310).
+This mpv.conf targets a cheap APU machine without proprietary graphic driver (e.g., RADEON HD 6310).
 
 ## Usage
 
