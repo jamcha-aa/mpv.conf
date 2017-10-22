@@ -5,6 +5,8 @@ My mpv.conf for Ubuntu 17.10 or later. This simple file targets cheap APU machin
 
 ## Usage
 
+Install mpv.
+
 Put mpv.conf to ~/.config/mpv/
 
 Enjoy.
