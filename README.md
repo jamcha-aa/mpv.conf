@@ -1,7 +1,7 @@
 # mpv.conf
 Author: jamcha (jamcha.aa@gmail.com)
 
-My mpv.conf for Ubuntu 17.10 or later. This simple file targets cheap APU machine without proprietary graphic driver (e.g., RADEON HD 6310).
+This mpv.conf targets cheap APU machine without proprietary graphic driver (e.g., RADEON HD 6310).
 
 ## Usage
 
